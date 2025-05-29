@@ -1,44 +1,30 @@
-## Hi there 👋, I'm Ali Seidu  
-### 💫 About Me:  
-🚀 **I’m currently working on:**  
-Building robust backend projects with **Django** to enhance my **Python** skills and contribute to impactful solutions. My goal is to strengthen my backend expertise while leveraging my foundational frontend experience with **JavaScript** and **React** when needed.  
+# Ali Seidu  
 
-🤝 **I’m looking to collaborate on:**  
-Innovative projects that focus on **backend development**, especially those utilizing **Python** and **Django**. I'm excited to work with startups or teams looking for a backend engineer dedicated to growth and teamwork.  
+## About Me  
+Backend Engineer and Co-Founder of CurveBooking, specializing in Django, REST APIs, and PostgreSQL. Experienced in designing scalable systems, optimizing database performance, and developing secure applications. Passionate about software architecture, cloud solutions, and building impactful products.  
 
-👐 **I’m looking for help with:**  
-Advancing my understanding of **Django** and backend best practices. I’d love insights from experienced developers on transitioning from learning to implementing in production environments.  
+## Skills  
+- **Backend:** Django, FastAPI, Python, REST API design  
+- **Database:** PostgreSQL (query optimization, JSONB), MySQL  
+- **Cloud & DevOps:** Docker, AWS (S3, EC2), Heroku, CI/CD pipelines  
+- **Frontend:** JavaScript, React, HTML/CSS, Bootstrap  
 
-🌱 **I’m currently learning:**  
-Django’s applications in real-world projects, diving into **backend architecture** and **development best practices**. I’m expanding my knowledge to become a well-rounded backend developer.  
+## Experience  
+- **Co-Founder & Backend Engineer, CurveBooking** *(March 2025 – Present)*  
+  Built Ghana’s leading hostel booking platform, integrating scalable architecture and optimized search functionality for students and hostel managers.  
 
-💬 **Ask me about:**  
-Backend development with **Python**, my journey learning **Django**, or how I’ve leveraged frontend skills in previous projects. I’m also happy to share my experience earning certifications and building a portfolio.  
+- **Backend Developer, Police Legal Case Management System**  
+  Developed a secure API for managing legal investigations, leveraging structured database design and authentication protocols.  
 
-⚡ **Fun fact:**  
-Based in **Ghana**, I’m fully remote and passionate about software engineering. I’m committed to contributing to impactful projects globally, bringing a unique perspective from my international experience.  
+## Projects  
+- **CurveBooking** – Hostel management platform for Ghana-wide reservations.  
+- **Police Legal Case Management System** – A structured API for legal case tracking.  
+- **Traffic Analysis Optimizer** – A machine learning tool for refining traffic models.  
 
----
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aliseidu_1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliseidu8855) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aliseidu_1) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aliseidu8855&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aliseidu8855&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliseidu8855&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aliseidu8855&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aliseidu8855&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliseidu8855&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliseidu8855&theme=dark&layout=compact)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=aliseidu8855&theme=radical)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aliseidu8855&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
