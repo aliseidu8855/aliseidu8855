@@ -18,14 +18,7 @@ CurveBooking is **Ghana’s leading hostel management platform**, connecting stu
 - **Architected** and deployed a scalable booking system with **Django and PostgreSQL**, ensuring high availability.  
 - Developed **advanced search and filtering functionality**, optimizing hostel discovery across Ghana.  
 - Implemented **secure authentication and payment processing**, improving reliability and fraud prevention.  
-- Designed an **automated reservation system**, reducing manual booking overhead for hostel managers.  
-
-### Backend Developer – Police Legal Case Management System *(2024 – Present)*  
-Developed an API that enables law enforcement agencies to manage legal investigations efficiently.  
-- Built **structured data models** with Django and PostgreSQL to streamline legal case tracking.  
-- Designed **secure authentication mechanisms using JWT**, ensuring controlled access to sensitive data.  
-- Implemented **searchable endpoints** for case records, suspects, and evidence retrieval.  
-- Developed role-based access control, allowing different law enforcement authorities to manage cases appropriately.  
+- Designed an **automated reservation system**, reducing manual booking overhead for hostel managers.    
 
 ### Full Stack Developer – Gastronauten Institute *(Dec 2024 – Present)*  
 Worked on backend optimizations and REST API improvements.  
