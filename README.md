@@ -41,4 +41,4 @@ Based in **Ghana**, I’m fully remote and passionate about software engineering
 ---
 [![](https://visitcount.itsvg.in/api?id=aliseidu8855&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->   let update my github readme file too
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
