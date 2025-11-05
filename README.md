@@ -1,54 +1,43 @@
-# Ali Seidu  
+# Ali Seidu
 
-## About Me  
-Backend Engineer and **Co-Founder of CurveBooking**, specializing in Django, REST APIs, and PostgreSQL. Proven experience in designing scalable, high-performance systems, optimizing complex database queries, and developing secure, maintainable applications. Passionate about cloud architecture, API development, and building impactful solutions that improve user experiences. Creator of the **Police Legal Case Management System**, a structured API for legal investigations and law enforcement data management.  
+## About Me
+Founder and Backend Engineer of **Fasolink**, Burkina Faso's mobile-first local marketplace. My expertise lies in architecting and building scalable, high-performance backend systems from the ground up using Django, REST APIs, and PostgreSQL.
 
-## Skills  
-- **Backend Development:** Django, FastAPI, Python, REST API design, TDD  
-- **Database Management:** PostgreSQL (query optimization, JSONB), MySQL  
-- **Cloud & DevOps:** Docker, AWS (S3, EC2), Heroku, CI/CD pipelines  
-- **Frontend Development:** JavaScript, React, HTML/CSS, Bootstrap  
-- **Security & Authentication:** JWT, OAuth, role-based access control  
-- **Development Methodologies:** Agile, Scrum, GitHub collaboration, automated testing  
+I am passionate about solving complex backend challenges, designing robust data models, and creating the foundational infrastructure that powers impactful applications. My work on Fasolink demonstrates a deep understanding of the full product lifecycle, from API design and database optimization to deployment and management.
 
-## Experience  
+## Skills
+- **Backend Development:** Django, Django REST Framework, Python, REST API Design, FastAPI
+- **Database Management:** PostgreSQL (Query Optimization, JSONB), MySQL, Data Modeling
+- **Cloud & DevOps:** Docker, Heroku, AWS (S3, EC2), CI/CD
+- **Security & Authentication:** JWT, OAuth, Role-Based Access Control
+- **Frontend (Supporting Skills):** React, JavaScript, HTML/CSS
+- **Development Methodologies:** Agile, Scrum, Git/GitHub Collaboration, TDD
 
-### Co-Founder & Backend Engineer – CurveBooking *(March 2025 – Present)*  
-CurveBooking is **Ghana’s leading hostel management platform**, connecting students with available accommodations nationwide.  
-- **Architected** and deployed a scalable booking system with **Django and PostgreSQL**, ensuring high availability.  
-- Developed **advanced search and filtering functionality**, optimizing hostel discovery across Ghana.  
-- Implemented **secure authentication and payment processing**, improving reliability and fraud prevention.  
-- Designed an **automated reservation system**, reducing manual booking overhead for hostel managers.    
+## Experience
 
-### Full Stack Developer – Gastronauten Institute *(Dec 2024 – Present)*  
-Worked on backend optimizations and REST API improvements.  
-- Improved **database performance**, reducing query execution time by **35%**.  
-- Designed **RESTful API architecture**, ensuring data consistency and modularity.  
-- Led **code reviews and mentorship**, improving overall development efficiency by **25%**.  
-- Integrated **cloud storage solutions** for scalable media management.  
+### Founder & Backend Engineer – Fasolink *(August 2025 – Present)*
+**Fasolink** is a French-first, mobile-first marketplace PWA designed to make buying and selling locally in Burkina Faso simple, local, and reliable.
+- **Architected and engineered** the entire backend infrastructure using **Django and Django REST Framework**, serving a React frontend.
+- **Designed a scalable PostgreSQL database schema** to handle complex relationships between users, shops, listings, and categories.
+- **Developed a secure, high-performance REST API** with JWT-based authentication for all platform functionalities, including user management, listing creation, and internal messaging.
+- **Deployed and manage** the application using Docker on Heroku, ensuring high availability and continuous integration.
 
-## Projects  
+### Full Stack Developer – Gastronauten Institute *(Dec 2024 – Present)*
+Contributed to backend optimizations and REST API improvements for the institute's primary platform and associated projects.
+- **As a key project, architected and built the complete website for The Royal Rock Foundation (theroyalrock.com)**, an affiliated NGO. This involved developing a custom Django backend and CMS to manage dynamic content, volunteer registration, and donation inquiries.
+- **Improved existing database performance**, reducing query execution time by **35%** through query optimization and indexing.
+- **Designed and refined RESTful API architecture** for various services, ensuring data consistency and modularity.
 
-### CurveBooking – Ghana’s Hostel Management System  
-A **nationwide student accommodation platform**, enabling hostel managers to list properties and students to book reservations seamlessly.  
-- Developed **responsive APIs** for student-hostel interactions.  
-- Designed **structured data models** for filtering, categorization, and searchability.  
-- Integrated **payment gateways**, improving transaction reliability.  
+## Key Project
 
-### Police Legal Case Management System  
-A **structured legal database system** to help law enforcement agencies manage investigations efficiently.  
-- Developed **secure API endpoints** with JWT-based authentication.  
-- Optimized **database queries** using JSONB for structured data processing.  
-- Designed **case tracking and evidence management workflows**.  
+### Fasolink – Local Marketplace for Burkina Faso
+A live, full-featured PWA marketplace connecting local buyers and sellers, built and architected from scratch.
+- **View the Live Application:** **[https://fasolink.app](https://fasolink.app)**
+- **Backend:** The core of the platform is a robust REST API built with Django REST Framework, handling all business logic and data persistence.
+- **Database:** Utilizes PostgreSQL for its reliability and advanced features like JSONB for flexible data storage.
+- **Key Feature:** The entire platform is a testament to building a complete, market-ready application from concept to deployment.
 
-### Traffic Analysis Optimizer  
-A **Python-based data analytics tool** using machine learning to refine traffic models.  
-- Developed an algorithm that analyzed road usage patterns and optimized flow efficiency.  
-- Implemented data visualization techniques for real-time insights.  
-
-## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliseidu8855&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliseidu8855&theme=dark&layout=compact)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=aliseidu8855&theme=radical)  
-
----
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliseidu8855&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliseidu8855&theme=dark&layout=compact)
+![Trophies](https://github-profile-trophy.vercel.app/?username=aliseidu8855&theme=radical)
