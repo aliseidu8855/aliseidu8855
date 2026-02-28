@@ -1,4 +1,4 @@
-# Ali Seidu
+# Ali (Drabo Seydou) Seidu
 
 ## About Me
 Founder and Backend Engineer of **Fasolink**, Burkina Faso's mobile-first local marketplace. My expertise lies in architecting and building scalable, high-performance backend systems from the ground up using Django, REST APIs, and PostgreSQL.
